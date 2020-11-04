@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lottie_Bottom_Bar.iml" filepath="$PROJECT_DIR$/.idea/modules/Lottie_Bottom_Bar.iml" group="Lottie_Bottom_Bar" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Lottie Bottom Bar/app" />
+    </modules>
+  </component>
+</project>
